@@ -1,3 +1,13 @@
+# Point Chain
+
+This is a repository for deploying a Substrate-based chain with evm pallet and Point Network smart contracts (ServiceProviderRegistry, Identity, and others)
+
+For the first version it will be packaged into a docker-compose setup along with Point Network node daemon (https://github.com/pointnetwork/pointnetwork) and other dependencies.
+
+Documentation from the template:
+
+--------------------------------
+
 # Substrate Node Template
 
 A fresh FRAME-based [Substrate](https://www.substrate.io/) node, ready for hacking :rocket:
